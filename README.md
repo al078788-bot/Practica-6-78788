@@ -32,3 +32,8 @@ También muestra el **total general del presupuesto** al presionar el botón “
 ## 🧠 Conclusión
 El modelado computacional de un **presupuesto de obra** permite automatizar cálculos, reducir errores humanos y comprender la estructura económica de un proyecto civil.  
 Además, integra conceptos de programación estructurada, modularidad y manejo de datos en ingeniería.
+
+## Equipo
+Axel Ariel Bacab España
+
+Miguel Angel Fuentes Figueroa
